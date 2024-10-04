@@ -415,4 +415,6 @@ special Thanks To ❤️ Developers -
 -Dev 3 <a href='https://t.me/armoviechat>VJ Botz</a>
 
 - Dev 4 <a href='https://t.me/dorapublicationbot'>TEAM VJ</a>
-"""
+""
+
+FORCE_SUB_TEXT = "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ"
